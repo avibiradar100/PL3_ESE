@@ -1,0 +1,36 @@
+body{
+    
+    margin:2px 3%;
+    /* background-image: url('./images/Wce.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; */
+    background-color: dimgray;
+}
+
+.form{
+    margin: 0px 34%;
+    border: 2px solid black;
+    padding: 20px;
+    color: white;
+}
+
+.image1{
+    margin: 0px 34%;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: white;
+
+}
+.center{
+    margin:0px 15%;
+}
+
+.navbar{
+    margin-bottom: 2%;
+}
+
+.data{
+    color: white;
+    margin-top: 2%;
+}
